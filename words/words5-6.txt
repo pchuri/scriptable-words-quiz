@@ -1,0 +1,60 @@
+amend|(법 등을) 수정하다, 개정하다
+account|설명(하다); 계좌; 차지하다
+sum|액수; 합계, 총합
+affirm|단언하다, 확언하다
+adversity|역경
+extend|연장하다; 뻗다; 확장하다
+extent|범위, 정도; 넓이, 크기
+expose|드러내다, 노출시키다; 폭로하다
+exhaust|기진맥진하게 만들다; 다써버리다; 배기가스
+obey|복종하다, 따르다, 준수하다
+confess|자백하다, 고백하다
+affair|일, 활동; 사건, 스캔들
+appreciate|이해하다; 감상하다; 고맙게 생각하다
+potential|잠재적인, 가능성(이 있는);잠재력
+rule|규칙, 원칙; 지배(하다), 통치(하다)
+solid|단단한, 견고한; 순수한; 고체
+alert|방심하지 않는; 경고하다;경계
+manufacture|제조(하다), 생산(하다); 제품
+profit|이익(을 얻다[주다]), 이윤
+absorb|흡수하다; (정보·지식 등을)받아들이다
+absurd|어리석은, 터무니없는
+fade|사라지다, 희미해지다; (색깔이) 바래다
+transit|운반, 운송; 통과, 환승
+afford|~할 여유가 있다
+finance|재정; 재정 상태; 자금을 공급[조달]하다
+precise|정확한, 정밀한
+assess|평가[산정]하다
+universal|보편적인, 일반적인; 전 세계의
+order|명령(하다); 주문(하다); 순서; 질서
+preserve|지키다, 보호하다; 유지하다
+operate|작동하다; 운영하다; 수술하다
+draft|초고, 초안
+regret|후회(하다); 유감(스럽게 생각하다)
+blame|비난(하다), ~을 탓하다; 책망
+average|평균(의); 표준, 보통 수준
+found|설립하다; ~에 기초를 두다
+refuse|거절하다, 사절하다
+compliment|칭찬(하다)
+complement|보충물, 보완하는 것; 보완[보충]하다
+isolate|격리시키다, 고립시키다
+behavior|행동, 행위, 태도
+confuse|혼란시키다; 혼동하다
+current|현재의; 흐름; 경향, 풍조
+general|일반적인; 대체적인; 장군
+aggressive|공격적인; 적극적인
+immense|엄청난, 어마어마한
+gradual|점진적인, 차츰~하는
+exhibit|전시하다; 전시(품)
+identical|동일한, 일치하는
+independent|독립한; 자립심이 강한
+boast|자랑하다, 뽐내다
+invest|투자하다
+expand|넓히다, 확장[확대]하다
+expend|(시간·노력·돈 등을) 들이다,소비하다
+brilliant|훌륭한; 명석한; 빛나는
+reject|거절하다, 거부하다
+despite|~에도 불구하고
+term|기간, 임기; 용어; 학기
+injured|다친; (감정이) 상처를 받은
+convince|확신시키다, 납득시키다;설득하다

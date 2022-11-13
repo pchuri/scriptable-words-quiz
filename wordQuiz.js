@@ -1,4 +1,4 @@
-const CONFIG_URL = "https://raw.githubusercontent.com/pchuri/scriptable-words-test/main/config.json"
+const CONFIG_URL = "https://raw.githubusercontent.com/pchuri/scriptable-words-quiz/main/config.json"
 await main()
 
 async function getConfig() {

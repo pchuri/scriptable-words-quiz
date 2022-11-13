@@ -1,21 +1,21 @@
 const CONFIG_URL = "https://raw.githubusercontent.com/pchuri/scriptable-words-test/main/config.json"
-main()
+await main()
 
 async function getConfig() {
   let req = new Request(CONFIG_URL)
   return await req.loadJSON()
 }
 
-async function getWords() {
-  let config = await getConfig()
-  let req = new Request(config.wordsUrl)
+async function getWords(url) {
+  let req = new Request(url)
   return await req.loadString()
 }
 
 async function main() {
-  let raws = await getWords()
+  let config = await getConfig()
+  let raws = await getWords(config.wordsUrl)
   let words = prepareWords(raws)
-  presentTable(words)
+  presentTable(config.title, words)
 }
 
 function prepareWords(raws) {
@@ -30,9 +30,16 @@ function prepareWords(raws) {
   return words
 }
 
-function presentTable(words) {
+function presentTable(title, words) {
   uiTable = new UITable()
   uiTable.showSeparators = true
+
+  uiTitleRow = new UITableRow()
+  uiTitleRow.height = 70;
+
+  let uiTitle = uiTitleRow.addText(title)
+  uiTitle.titleFont = Font.largeTitle()
+  uiTable.addRow(uiTitleRow)
 
   for (let i in words) {
     let w = words[i].split("|")

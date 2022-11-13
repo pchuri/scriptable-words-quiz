@@ -1,4 +1,4 @@
-from make_words import (
+from words import (
     load_words_from_file,
     write_file_from_words,
     shuffle_words
@@ -6,7 +6,7 @@ from make_words import (
 
 
 def main():
-    chapters = [6, 7]
+    chapters = [4, 5]
     all_words = load_words_from_file("words_all.txt")
 
     start_index = 1 + 30 * (chapters[0] - 1)

@@ -58,5 +58,5 @@ function presentTable(title, words) {
     uiTable.addRow(uiTableRow)
   }
 
-  uiTable.present()
+  uiTable.present(true)
 }

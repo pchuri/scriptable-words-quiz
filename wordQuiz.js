@@ -1,62 +1,57 @@
 const CONFIG_URL = "https://raw.githubusercontent.com/pchuri/scriptable-words-quiz/main/config.json"
-await main()
-
-async function getConfig() {
-  let req = new Request(CONFIG_URL)
-  return await req.loadJSON()
-}
-
-async function getWords(url) {
-  let req = new Request(url)
-  return await req.loadString()
-}
-
-async function main() {
-  let config = await getConfig()
-  let raws = await getWords(config.wordsUrl)
-  let words = prepareWords(raws)
-  presentTable(config.title, words)
-}
-
-function prepareWords(raws) {
-  wordsArray = raws.split("\n")
-  let words=[]
-  for (let i in wordsArray) {
-    let w=wordsArray[i].trim()
+const getConfig = () => new Request(CONFIG_URL).loadJSON()
+const getWords = (url) => new Request(url).loadString()
+const prepareWords = (data) => {
+  const words = data.split("\n")
+  let retWords=[]
+  for (let i = 0; i < words.length; i++) {
+    const w = words[i].trim()
     if (w) {
-      words.push(w.replaceAll('"',''))
+      retWords.push(w.replaceAll('"',''))
     }
   }
-  return words
+  return retWords
 }
 
-function presentTable(title, words) {
-  uiTable = new UITable()
-  uiTable.showSeparators = true
-
-  uiTitleRow = new UITableRow()
+const createTitleRow = (title) => {
+  let uiTitleRow = new UITableRow()
   uiTitleRow.height = 70;
 
   let uiTitle = uiTitleRow.addText(title)
   uiTitle.titleFont = Font.largeTitle()
-  uiTable.addRow(uiTitleRow)
+  return uiTitleRow
+}
 
-  for (let i in words) {
-    let w = words[i].split("|")
-    let index = 1+parseInt(i);
+const createWordRow = (i, data) => {
+  const w = data.split("|")
+  const word = w[0]
+  const mean = w[1]
+  const index = 1 + i;
 
-    uiTableRow = new UITableRow()
-    uiTableRow.height = 65;
-    uiTableRow.onSelect = () => {
-      Speech.speak(w[0])
-    }
-    uiTableRow.dismissOnSelect = false
+  let uiTableRow = new UITableRow()
+  uiTableRow.height = 65;
+  uiTableRow.onSelect = () => Speech.speak(word)
+  uiTableRow.dismissOnSelect = false
 
-	 let row = index + ". " + w[0]
-    uiText = uiTableRow.addText(row, w[1])
+  const text = index + ". " + word
+  uiTableRow.addText(text, mean)
+  return uiTableRow
+}
 
-    uiTable.addRow(uiTableRow)
+const presentTable = (title, words) => {
+  let uiTable = new UITable()
+  uiTable.showSeparators = true
+  uiTable.addRow(createTitleRow(title))
+
+  for (let i=0; i<words.length; i++) {
+    uiTable.addRow(createWordRow(i, words[i]))
   }
-
   uiTable.present(true)
 }
+
+const main = async () => {
+    let config = await getConfig()
+    let words = prepareWords(await getWords(config.wordsUrl))
+    presentTable(config.title, words)
+}
+await main()

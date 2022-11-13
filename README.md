@@ -1,3 +1,3 @@
 # scriptable-words-test
 - wordQuiz.js on Scriptable.
-- [Install]("shorturl.at/chy28")
+- [Install]("https://shorturl.at/chy28")

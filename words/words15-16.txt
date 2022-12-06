@@ -1,60 +1,60 @@
-decode|(암호를) 해독하다
-antibiotic|항생제, 항생 물질
-subordinate|부차적인; 하급자; 하위에 두다
-innate|타고난, 선천적인
-masterpiece|걸작, 대표작
-extraordinary|비범한, 대단한; 이상한
-degrade|비하하다, 지위를 떨어뜨리다; 분해하다[되다]
-insight|통찰력
-instinct|본능, 본성
-impersonal|개인적인 감정을 섞지 않은; 비인격적인
-enrol(l)|등록하다, 입학[입회]하다
-extracurricular|정규 과목 이외의, 과외의
-interchange|교환(하다); 교차점, 분기점
-dismiss|해고하다; 묵살하다; 해산시키다
-subscribe|(신문 등을) 구독하다; 서명하다
-diameter|지름, 직경
 endure|참다, 견디다
-antarctic|남극 지방; 남극의
-interaction|상호 작용, 상호 영향
-supreme|최고의, 최상의
-intact|온전한, 손상되지 않은
-depart|출발하다, 떠나다
-external|외부의, 밖의
-pros and cons|찬반양론, 장단점
-enclose|둘러싸다; 동봉하다
-intolerable|참을 수 없는, 견딜 수 없는
-enlighten|계몽하다, (설명하여) 이해시키다
-exceed|넘다, 초과하다
-foretell|예언하다, 예고하다
-inevitable|피할 수 없는, 불가피한
-interval|간격, 사이; 중간 휴식 시간
-entitle|자격[권리]을 주다; (~라고) 표제를 붙이다
-superb|매우 뛰어난, 멋진
-magnitude|거대함; 중요함, 중대성
-majestic|위엄 있는, 장엄한
-invade|침략하다, 침입하다; 침해하다
-exaggerate|과장하다
-antipathy|반감
-interpret|통역하다; 이해하다; 설명하다
-dialect|방언, 사투리
-intermission|(연극·영화 등의) 휴식 시간
-antonym|반의어
-intake|섭취(량)
-despise|경멸하다, 깔보다
-encounter|(위험에) 부닥치다; 마주치다; 만남
+interchange|교환(하다); 교차점, 분기점
 dissolve|녹다[녹이다]; 해산하다
-infect|감염시키다; 오염시키다
-illiterate|글을 모르는, 문맹의; 문맹자
+subordinate|부차적인; 하급자; 하위에 두다
+intermission|(연극·영화 등의) 휴식 시간
+intake|섭취(량)
+magnitude|거대함; 중요함, 중대성
+exceed|넘다, 초과하다
+dialect|방언, 사투리
+invade|침략하다, 침입하다; 침해하다
+majestic|위엄 있는, 장엄한
+superb|매우 뛰어난, 멋진
+disposal|처리; 처분
+degrade|비하하다, 지위를 떨어뜨리다; 분해하다[되다]
 forecast|예보(하다), 예측(하다)
+interfere|간섭하다; 방해하다
+interaction|상호 작용, 상호 영향
 endanger|위험에 빠뜨리다
-disorder|혼란, 무질서; (심신의) 이상, 장애
-suppress|진압하다; 억제하다, 참다
+depart|출발하다, 떠나다
+entitle|자격[권리]을 주다; (~라고) 표제를 붙이다
+innate|타고난, 선천적인
+extraordinary|비범한, 대단한; 이상한
+antonym|반의어
+intact|온전한, 손상되지 않은
 irregular|고르지 않은, 불규칙한
+masterpiece|걸작, 대표작
+interpret|통역하다; 이해하다; 설명하다
+encounter|(위험에) 부닥치다; 마주치다; 만남
 subconscious|잠재 의식(의)
 extinct|멸종된, 사라진; (화산 등이) 활동을 멈춘
-interfere|간섭하다; 방해하다
-disposal|처리; 처분
+impersonal|개인적인 감정을 섞지 않은; 비인격적인
+infect|감염시키다; 오염시키다
+antarctic|남극 지방; 남극의
+inevitable|피할 수 없는, 불가피한
+dismiss|해고하다; 묵살하다; 해산시키다
+foretell|예언하다, 예고하다
+supreme|최고의, 최상의
+antibiotic|항생제, 항생 물질
+enrol(l)|등록하다, 입학[입회]하다
+antipathy|반감
 discourage|용기를 잃게 하다, 낙담시키다; 단념시키다
-insult|모욕(하다), 창피를 주다
+illiterate|글을 모르는, 문맹의; 문맹자
+decode|(암호를) 해독하다
+enclose|둘러싸다; 동봉하다
+intolerable|참을 수 없는, 견딜 수 없는
+instinct|본능, 본성
+interval|간격, 사이; 중간 휴식 시간
+diameter|지름, 직경
+insight|통찰력
+extracurricular|정규 과목 이외의, 과외의
+despise|경멸하다, 깔보다
+enlighten|계몽하다, (설명하여) 이해시키다
+pros and cons|찬반양론, 장단점
+disorder|혼란, 무질서; (심신의) 이상, 장애
+suppress|진압하다; 억제하다, 참다
+subscribe|(신문 등을) 구독하다; 서명하다
+exaggerate|과장하다
+external|외부의, 밖의
 enforce|시행하다, 집행하다; 강요하다
+insult|모욕(하다), 창피를 주다

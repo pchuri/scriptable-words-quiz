@@ -1,60 +1,60 @@
-analyze|분석하다, 검토하다
-companion|동료; 안내서, 지침서
-altitude|높이, 고도
-document|문서, 서류, 기록
-furthermore|더욱이, 게다가
-economical|경제적인, 절약되는
-merge|합병[병합]하다, 합치다
-remind|상기시키다, 일깨우다
-amplify|증폭시키다
-attitude|태도, 자세
-dominant|지배적인, 우위를 차지하는
-sentence|문장; 판결(을 내리다), 선고(하다)
-apology|사과, 사죄
-blend|혼합하다; 조화되다; 혼합물
-article|기사; 물품; 조항
-aptitude|소질, 적성
-harsh|가혹한, 무자비한
-diminish|줄어들다, 축소하다
-mention|말하다, 언급(하다)
-abandon|버리다, 떠나다; 포기하다, 단념하다
-comment|논평(하다), 의견; 비평하다
-generate|생산[창출]하다; 발생시키다
-provide|제공하다, 주다; 규정하다
-economic|경제(상)의, 경제학의
-manage|경영하다, 관리하다; 간신히 ~하다
-judge|판단하다; 판정하다; 심판
-emerge|나오다, 나타나다
-revise|수정하다, 개정하다
-ban|금지(하다)
-prudent|신중한, 조심성 있는
-phase|국면, 단계(적으로 실행하다)
-maintain|유지하다, 지속하다; 주장하다
 local|지역의, 현지의; 주민, 현지인
-cognitive|인식의, 인지의
-economics|경제학
-rush|급하게 가다, 서두르다; 돌진; 분주함
-character|성격; 특성; (등장)인물
-fulfil(l)|(의무 등을) 다하다, 이행하다; 실현[성취]하다
-flawless|흠이 없는
 realize|깨닫다; 실현하다
-relax|쉬다, 긴장을 풀다; (법·규제를) 완화하다
-permit|허락하다; 허가(증)
-balance|균형(을 잡다); 잔액; 저울
-principal|주요한; 교장, 학장
-embed|깊숙이 박다; 깊이 새겨두다
-immediate|즉각적인; 시급한; 직접적인
-beneath|바로 밑에, 아래에
+abandon|버리다, 떠나다; 포기하다, 단념하다
 administer|관리하다, 운영하다; 집행하다
-scrub|문지르다, 닦아내다
-board|판자; (게시)판; 탑승하다
-magnify|확대하다; 과장하다
-measure|측정하다; 평가하다; 척도
-cue|신호; 신호를 주다, 지시를 보내다
+generate|생산[창출]하다; 발생시키다
+attitude|태도, 자세
+character|성격; 특성; (등장)인물
+immediate|즉각적인; 시급한; 직접적인
+aptitude|소질, 적성
+fulfil(l)|(의무 등을) 다하다, 이행하다; 실현[성취]하다
+blend|혼합하다; 조화되다; 혼합물
+remind|상기시키다, 일깨우다
+manage|경영하다, 관리하다; 간신히 ~하다
+harsh|가혹한, 무자비한
 obligation|의무, 책임
+economic|경제(상)의, 경제학의
+magnify|확대하다; 과장하다
+permit|허락하다; 허가(증)
+relax|쉬다, 긴장을 풀다; (법·규제를) 완화하다
+beneath|바로 밑에, 아래에
+article|기사; 물품; 조항
+amplify|증폭시키다
+prudent|신중한, 조심성 있는
+apology|사과, 사죄
 elect|선출하다, 선임하다
-agency|대리점, 대행사; 기관
-principle|원리, 원칙; 주의, 신념
+principal|주요한; 교장, 학장
+flawless|흠이 없는
+board|판자; (게시)판; 탑승하다
+phase|국면, 단계(적으로 실행하다)
+merge|합병[병합]하다, 합치다
+revise|수정하다, 개정하다
+balance|균형(을 잡다); 잔액; 저울
+measure|측정하다; 평가하다; 척도
+companion|동료; 안내서, 지침서
 designate|지정하다, 지명하다; (기호를 써서) 표시하다
-count|세다; 간주하다; 중요하다
+ban|금지(하다)
 neglect|방치하다; 무시하다; 태만
+principle|원리, 원칙; 주의, 신념
+document|문서, 서류, 기록
+sentence|문장; 판결(을 내리다), 선고(하다)
+agency|대리점, 대행사; 기관
+emerge|나오다, 나타나다
+scrub|문지르다, 닦아내다
+cognitive|인식의, 인지의
+embed|깊숙이 박다; 깊이 새겨두다
+comment|논평(하다), 의견; 비평하다
+cue|신호; 신호를 주다, 지시를 보내다
+analyze|분석하다, 검토하다
+count|세다; 간주하다; 중요하다
+provide|제공하다, 주다; 규정하다
+economical|경제적인, 절약되는
+judge|판단하다; 판정하다; 심판
+altitude|높이, 고도
+dominant|지배적인, 우위를 차지하는
+rush|급하게 가다, 서두르다; 돌진; 분주함
+economics|경제학
+furthermore|더욱이, 게다가
+diminish|줄어들다, 축소하다
+maintain|유지하다, 지속하다; 주장하다
+mention|말하다, 언급(하다)

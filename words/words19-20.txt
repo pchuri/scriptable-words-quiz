@@ -1,60 +1,60 @@
-precede|~에 앞서다[선행하다]
-tribe|부족, 종족
-withstand|견디다; 저항하다
-recede|물러가다, 멀어지다; 희미해지다
-signify|나타내다; 중요하다, 중대하다
-eligible|~을 가질[할] 수 있는; 신랑[신부]감으로 좋은
-abolish|폐지하다, 없애다
-capable|~할 수 있는; 유능한
-attain|달성하다, 이루다; 이르다
-straighten|똑바르게 하다[되다]; 정리[정돈]하다
-trivial|사소한, 하찮은
-retail|소매(하다); 소매로
-sustain|유지하다; 지지하다; (손해·상처 등을) 입다
-withhold|주지 않다, 보류하다
-adolescent|청소년(의)
-deduct|빼다, 공제하다
-fasten|채우다; 잠그다; 고정시키다
-incident|사건, 일어난 일
-cease|그만두다, 그치다, 끝나다
-duplicate|똑같은; 사본; 복사하다
-retain|보유하다, 유지하다; (정보 등을) 기억하다
-resolve|해결하다; 결심하다
-withdraw|물러나다; 취소하다; 인출하다
-abstain|기권하다; 삼가다, 절제하다
-biology|생물학
-despair|절망(하다), 낙담
-captive|포로(가 된); 사로잡힌
-conceive|생각해 내다; 상상하다; 임신하다
-charitable|자선 (단체)의; 자선을 베푸는
-continent|대륙, 육지
-discriminate|차별하다; 구별하다
-edible|먹을 수 있는, 식용의
-deceive|속이다, 기만하다
-solitary|혼자의; 고립된, 외딴
-broaden|넓어지다, 넓히다
-twilight|황혼, 땅거미; 황혼기, 쇠퇴기
-hasten|서둘러 하다; 재촉하다, 앞당기다
-biography|전기, 일대기
-conduct|수행(하다); 이끌다; 처신하다
-dispensable|없어도 되는, 불필요한
-predecessor|전임자, 선배
-sophomore|(대학·고교의) 2학년생
-educate|교육하다, 가르치다
-worsen|악화되다, 악화시키다
-resign|사임하다, 사직하다
-integrate|통합하다, 통합되다; 인종 차별을 철폐하다
-negotiable|협상할 수 있는
 decay|썩다; 부패(하다); 쇠퇴(하다)
-tangible|만질 수 있는, 실체가 있는; 명백한
-criticize|비판하다, 비난하다; 비평하다
-excess|초과, 과잉; 초과한
-audible|들리는, 들을 수 있는
-alter|바꾸다, 변하다
-prosper|번영하다, 성공하다
-divisible|나눌 수 있는, 나누어지는
+twilight|황혼, 땅거미; 황혼기, 쇠퇴기
+conceive|생각해 내다; 상상하다; 임신하다
+biology|생물학
+integrate|통합하다, 통합되다; 인종 차별을 철폐하다
+deduct|빼다, 공제하다
+withhold|주지 않다, 보류하다
 alien|외국(인)의; 이질적인; 외계인
-bilingual|2개 국어를 구사할 수 있는; 2개 국어 구사자
-sole|유일한, 단독의
 casual|느긋한; 평상시의; 평상복
+educate|교육하다, 가르치다
+signify|나타내다; 중요하다, 중대하다
+solitary|혼자의; 고립된, 외딴
+sole|유일한, 단독의
+cease|그만두다, 그치다, 끝나다
+recede|물러가다, 멀어지다; 희미해지다
+eligible|~을 가질[할] 수 있는; 신랑[신부]감으로 좋은
+sustain|유지하다; 지지하다; (손해·상처 등을) 입다
+abstain|기권하다; 삼가다, 절제하다
+capable|~할 수 있는; 유능한
+dispensable|없어도 되는, 불필요한
+sophomore|(대학·고교의) 2학년생
+divisible|나눌 수 있는, 나누어지는
+resign|사임하다, 사직하다
+excess|초과, 과잉; 초과한
+trivial|사소한, 하찮은
+edible|먹을 수 있는, 식용의
+conduct|수행(하다); 이끌다; 처신하다
+audible|들리는, 들을 수 있는
+predecessor|전임자, 선배
+duplicate|똑같은; 사본; 복사하다
+alter|바꾸다, 변하다
+attain|달성하다, 이루다; 이르다
+deceive|속이다, 기만하다
+adolescent|청소년(의)
+straighten|똑바르게 하다[되다]; 정리[정돈]하다
+broaden|넓어지다, 넓히다
+discriminate|차별하다; 구별하다
+tribe|부족, 종족
+bilingual|2개 국어를 구사할 수 있는; 2개 국어 구사자
+retail|소매(하다); 소매로
+fasten|채우다; 잠그다; 고정시키다
+withdraw|물러나다; 취소하다; 인출하다
+worsen|악화되다, 악화시키다
+precede|~에 앞서다[선행하다]
+biography|전기, 일대기
+captive|포로(가 된); 사로잡힌
+continent|대륙, 육지
+abolish|폐지하다, 없애다
+incident|사건, 일어난 일
 sophisticated|세련된, 교양 있는; 정교한
+charitable|자선 (단체)의; 자선을 베푸는
+withstand|견디다; 저항하다
+hasten|서둘러 하다; 재촉하다, 앞당기다
+resolve|해결하다; 결심하다
+despair|절망(하다), 낙담
+criticize|비판하다, 비난하다; 비평하다
+negotiable|협상할 수 있는
+retain|보유하다, 유지하다; (정보 등을) 기억하다
+prosper|번영하다, 성공하다
+tangible|만질 수 있는, 실체가 있는; 명백한

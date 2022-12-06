@@ -1,60 +1,60 @@
-conserve|보존하다, 보호하다
-endeavor|노력(하다), 시도(하다)
-pursue|추구하다; 뒤쫓다
-insist|주장하다; 고집하다, 우기다
-annual|매년의, 연례의
-dread|몹시 무서워하다; 두려움
-perform|수행하다; 공연하다; 작동하다
-compulsory|강제적인, 의무적인, 필수의
-regulate|규제하다; 조정하다
-orphan|고아
-precious|귀중한, 값비싼; 소중한
-innovate|혁신하다, 쇄신하다
-reserve|따로 떼어두다; 예약하다; 비축(물)
-race|경주(하다); 인종
 associate|연상하다, 연관 짓다; 교제하다
-shrink|줄어들다[줄어들게 하다]
-recover|회복하다; 되찾다
-population|인구, [모든] 주민
-lay|놓다, 두다; (알을) 낳다
-prospect|가망, 가능성; 전망
+considerable|상당한, 적지 않은
 illustrate|(예를 들어) 설명하다; 삽화를 넣다
-construct|건설하다; 구성하다; 구조물
-observe|관찰하다; (법·관습 등을) 지키다
+worship|숭배(하다); 예배(를 보다)
+precious|귀중한, 값비싼; 소중한
+overcome|극복하다, 이겨내다
+considerate|사려 깊은, 이해심[동정심]이 많은
+industrious|부지런한, 근면한
+compulsory|강제적인, 의무적인, 필수의
+race|경주(하다); 인종
+pursue|추구하다; 뒤쫓다
 ridiculous|우스운, 터무니없는
+compensate|보상하다, 변상하다
+reserve|따로 떼어두다; 예약하다; 비축(물)
+shrink|줄어들다[줄어들게 하다]
+endeavor|노력(하다), 시도(하다)
+recover|회복하다; 되찾다
+assign|할당하다, 배정하다
+obscure|모호한; 잘 알려지지 않은; 모호하게 하다
+annual|매년의, 연례의
+industrial|산업[공업]의; 공업용의
+range|범위; 다양성; (범위가 ~에서 …에) 이르다
+merit|장점; (칭찬할 만한) 가치, 우수성
+restrict|제한하다, 한정하다
+innovate|혁신하다, 쇄신하다
 electronic|전자의, 전자공학의
+pale|핏기 없는, 창백한; (색깔이) 옅은
+escape|달아나다, 탈출(하다); 도피
+string|끈, 줄; 묶다
+lie|눕다; (~의 상태로) 있다; 거짓말(하다)
+produce|생산하다; 야기하다; 농산물
 activate|작동시키다, 활성화하다
+enormous|거대한, 엄청난
+orphan|고아
+bond|유대(를 맺다); 속박; 채권
+confident|자신 있는; 확신하는
+degree|정도; (각도·온도계의) 도; 학위
+survive|살아남다; (위기 등을) 견뎌 내다
+unique|독특한; 유일(무이)한
+instruct|지시하다; 가르치다
+license|면허(를 주다), 인가; 허가하다
+confidential|비밀의, 기밀의
+prospect|가망, 가능성; 전망
+deserve|~할 가치가 있다, ~을 받을 만하다
+dread|몹시 무서워하다; 두려움
+construct|건설하다; 구성하다; 구조물
+aspect|측면, 방향
+insist|주장하다; 고집하다, 우기다
 scatter|(흩)뿌리다; 흩어지다[흩어지게 하다]
 establish|수립하다, 설립하다
-lie|눕다; (~의 상태로) 있다; 거짓말(하다)
-enormous|거대한, 엄청난
-restoration|복구, 복원; 회복
-confident|자신 있는; 확신하는
-considerable|상당한, 적지 않은
-aspect|측면, 방향
+lay|놓다, 두다; (알을) 낳다
+conserve|보존하다, 보호하다
+observe|관찰하다; (법·관습 등을) 지키다
 display|전시[진열](하다); 표현, 과시
-range|범위; 다양성; (범위가 ~에서 …에) 이르다
-produce|생산하다; 야기하다; 농산물
-unique|독특한; 유일(무이)한
-deserve|~할 가치가 있다, ~을 받을 만하다
-degree|정도; (각도·온도계의) 도; 학위
-license|면허(를 주다), 인가; 허가하다
-assign|할당하다, 배정하다
-considerate|사려 깊은, 이해심[동정심]이 많은
-worship|숭배(하다); 예배(를 보다)
-bond|유대(를 맺다); 속박; 채권
-escape|달아나다, 탈출(하다); 도피
-industrious|부지런한, 근면한
-overcome|극복하다, 이겨내다
-popularity|인기; 대중성
+restoration|복구, 복원; 회복
+perform|수행하다; 공연하다; 작동하다
 expertise|전문 지식[기술]
-confidential|비밀의, 기밀의
-industrial|산업[공업]의; 공업용의
-merit|장점; (칭찬할 만한) 가치, 우수성
-survive|살아남다; (위기 등을) 견뎌 내다
-pale|핏기 없는, 창백한; (색깔이) 옅은
-compensate|보상하다, 변상하다
-string|끈, 줄; 묶다
-instruct|지시하다; 가르치다
-restrict|제한하다, 한정하다
-obscure|모호한; 잘 알려지지 않은; 모호하게 하다
+popularity|인기; 대중성
+population|인구, [모든] 주민
+regulate|규제하다; 조정하다

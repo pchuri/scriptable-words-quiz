@@ -1,0 +1,60 @@
+patent|특허(권); 특허를 받은; 특허권을 얻다
+imprison|투옥하다, 수감하다
+warranty|보증(서)
+asthma|천식
+tablet|알약
+jail|교도소, 감옥; 투옥하다
+cure|치료(법); 치료하다
+ailment|병
+cheat|속이다; 사기꾼; 속이기
+penalty|형벌, 벌금
+fatigue|(심신의) 피로, 피곤
+debilitate|허약하게 하다
+witness|목격자; 목격하다; 증언하다
+sanitary|위생의; 위생적인, 청결한
+phobia|공포증, (병적인) 공포
+remedy|치료(법), 의약(품)
+wreck|파괴, 난파; 난파시키다
+heal|고치다, 치료하다; 낫다
+diabetes|당뇨병
+surgery|수술
+allergic|알레르기의, 알레르기 체질의
+plague|전염병, 돌림병
+obese|뚱뚱한, 지나치게 살찐
+criminal|범죄자, 범인; 범죄의
+infringe|어기다, 위반하다, (권리를) 침해하다
+victim|피해자
+rebellion|반란, 폭동
+verify|입증하다
+lawsuit|소송
+code|법전; 규범; 암호
+wound|상처; 고통; 상처를 입히다
+epidemic|유행병, 전염병; 전염성의
+sue|소송을 제기하다, 고소하다
+guilty|죄를 범한, 유죄의; 죄책감이 드는
+legalize|법률화하다, 합법화하다
+insomnia|불면증
+outrage|격노; 불법 행위; 격분하게 하다
+chronic|(병이) 만성인, 고질인
+sin|죄; 위반; (죄를) 짓다
+comply|따르다, 준수하다
+sneeze|재채기; 재채기하다
+jury|배심(원단)
+vomit|구토; 구토하다
+enact|(법령을) 제정하다, 규정하다; 상연하다
+prosecute|기소하다, 고소하다
+attorney|변호사
+kidnap|유괴하다, 납치하다
+forbid|~을 금지하다, 막다
+swell|부풀다; 증가하다; 팽창
+choke|숨통을 끊다, 질식시키다
+theft|도둑질, 절도죄
+revenge|복수; 복수하다
+legislate|법률을 제정하다, 입법하다
+innocent|죄 없는, 결백한
+drown|물에 빠지다, 익사하다
+symptom|증상, 증후
+scar|상처, 흉터; 상처 자국이 남다
+deficiency|부족, 결핍
+suicide|자살
+paralysis|마비

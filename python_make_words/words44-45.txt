@@ -1,0 +1,60 @@
+liver|간
+nasty|비열한; 더러운, 불쾌한
+clumsy|어색한; 서투른
+sturdy|튼튼한, 힘센; 견고한
+tolerant|관대한, 아량이 있는
+throat|목구멍, 인후
+pulse|맥박
+courteous|예의 바른, 공손한
+oral|입의; 구술의; 구술시험
+organ|[생물] 기관, 장기
+cell|세포
+thin|얇은; 여윈, 수척한
+organism|유기체, 생물
+stubborn|완고한, 고집 센
+thumb|엄지손가락
+awkward|다루기 힘든; 어색한; 서투른
+artery|동맥
+naive|순진한, 천진난만한
+naughty|말을 듣지 않는
+beard|턱수염
+arrogant|건방진, 거만한
+intimate|친밀한, 친숙한
+weird|이상한, 괴상한
+immune|면역성의, 면역의
+ambitious|대망을 품은, 야망을 가진
+muscle|근육
+loyal|충성스러운, 충의가 있는
+cellular|세포의
+merciless|무자비한, 잔인한
+slim|날씬한
+gene|유전자
+kidney|신장, 콩팥
+mischievous|장난이 심한, 개구쟁이의
+sincere|성실한; 참된
+brutal|야만적인; 잔혹한, 무자비한
+wicked|사악한; 심술궂은
+charming|매력적인
+eager|열망[갈망]하는; 열심인
+lung|폐, 허파
+spine|척추, 등뼈
+masculine|남성의; 남자다운
+mustache|콧수염
+faithful|충실한; 신의 있는
+knee|무릎
+joint|관절; 공동의, 연합의
+greedy|욕심 많은, 탐욕스러운
+abdomen|배, 복부
+skeleton|해골, 골격; 윤곽
+slender|가느다란; 가냘픈, 연약한
+nerve|신경
+fierce|사나운, 거친; 잔인한
+frank|솔직한, 가식이 없는
+timid|겁 많은, 소심한
+grim|불쾌한; 엄격한; 험악한
+wrist|손목
+wrinkle|주름; 주름살 지다
+deliberate|신중한; 고의의, 계획적인
+limb|팔다리
+thigh|넓적다리, 허벅다리
+peculiar|이상한, 별난; 특이한

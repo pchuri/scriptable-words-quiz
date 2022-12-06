@@ -1,0 +1,60 @@
+slim|날씬한
+beard|턱수염
+slender|가느다란; 가냘픈, 연약한
+poll|투표; 여론 조사; (표를) 얻다
+liver|간
+govern|다스리다, 통치하다; 결정하다
+foe|적
+lung|폐, 허파
+strategy|전략; 계략, 술수
+cannon|대포
+skeleton|해골, 골격; 윤곽
+pulse|맥박
+tyranny|전제 정치; 횡포
+devastate|황폐시키다, 철저하게 파괴하다
+kidney|신장, 콩팥
+mustache|콧수염
+nuclear|핵의; 핵무기의
+nerve|신경
+assault|습격; 급습하다, 공격하다
+tactics|전술(학); 술책
+organ|[생물] 기관, 장기
+immune|면역성의, 면역의
+salute|경례; 경례하다; 인사하다
+border|경계; 가장자리; 접경[인접]하다
+thin|얇은; 여윈, 수척한
+martial|전쟁의; 군의, 군사의
+thumb|엄지손가락
+artery|동맥
+cellular|세포의
+spine|척추, 등뼈
+triumph|승리(감); 승리를 차지하다
+authority|권위; 당국; 권위자
+slaughter|대학살; 대학살하다; (가축을) 도살하다
+senator|상원 의원
+candidate|후보자, 지원자
+joint|관절; 공동의, 연합의
+shield|방패; 방어물; 보호하다
+vote|투표; 투표[선거]권; 투표하다
+knee|무릎
+parliament|의회, 국회
+throat|목구멍, 인후
+federal|연방의, 연방제의; 연방 정부의
+troop|무리, 떼; 군대
+muscle|근육
+cell|세포
+abdomen|배, 복부
+battlefield|전쟁터, 싸움터
+oral|입의; 구술의; 구술시험
+bombard|포격[폭격]하다
+embassy|대사관
+thigh|넓적다리, 허벅다리
+spear|창, 투창; 창으로 찌르다
+organism|유기체, 생물
+throne|왕좌, 왕위; 군주
+wrist|손목
+dignity|존엄, 위엄; 엄숙함
+defeat|패배시키다, 쳐부수다; 패배
+wrinkle|주름; 주름살 지다
+gene|유전자
+limb|팔다리

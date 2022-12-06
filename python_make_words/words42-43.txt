@@ -1,0 +1,60 @@
+symptom|증상, 증후
+vomit|구토; 구토하다
+freeze|얼다, 결빙하다; 몹시 춥다
+cure|치료(법); 치료하다
+violent|격렬한, 맹렬한; 폭력적인
+suicide|자살
+chill|추위; 추운, 한기가 도는
+turbulence|폭풍 상태; 난기류; 소란
+plague|전염병, 돌림병
+ripe|여문, 익은
+tropic|열대 지방
+copper|구리, 동
+hatch|깨다, 부화하다; 출입구
+chronic|(병이) 만성인, 고질인
+swell|부풀다; 증가하다; 팽창
+debilitate|허약하게 하다
+beak|(새의) 부리
+hail|우박, 싸락눈
+diabetes|당뇨병
+humid|습기 찬, 습한
+wound|상처; 고통; 상처를 입히다
+allergic|알레르기의, 알레르기 체질의
+frost|얼어붙는 추위; 서리, 서릿발
+fatigue|(심신의) 피로, 피곤
+global|전 세계의, 지구상의
+grain|곡식알, 낟알; 곡물, 곡류
+dawn|새벽; 시작; 날이 새다
+paralysis|마비
+drought|가뭄
+cave|굴, 동굴
+lamb|어린[새끼] 양; (새끼 양을) 낳다
+beast|동물, 짐승
+livestock|가축(류)
+disaster|재해, 천재
+breeze|산들바람
+drown|물에 빠지다, 익사하다
+obese|뚱뚱한, 지나치게 살찐
+asthma|천식
+weed|잡초; 잡초를 뽑다
+phobia|공포증, (병적인) 공포
+sanitary|위생의; 위생적인, 청결한
+remedy|치료(법), 의약(품)
+choke|숨통을 끊다, 질식시키다
+dampen|축축하게 하다, 적시다; 풀죽게 하다
+sneeze|재채기; 재채기하다
+roar|으르렁거리다; 고함치다; 포효
+moist|습한, 축축한
+surgery|수술
+ailment|병
+insecticide|살충제
+epidemic|유행병, 전염병; 전염성의
+scar|상처, 흉터; 상처 자국이 남다
+bunch|송이, 다발
+tablet|알약
+cliff|벼랑, 절벽
+insomnia|불면증
+cattle|소; 가축
+deficiency|부족, 결핍
+wreck|파괴, 난파; 난파시키다
+heal|고치다, 치료하다; 낫다
